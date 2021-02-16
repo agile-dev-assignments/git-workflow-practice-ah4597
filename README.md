@@ -1,2 +1,7 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+# A quick read on the philosopies behind software engineering methodologies and why agile will evolve.
+
+### https://fredrik-carleson.medium.com/have-scrum-begun-to-outlive-its-usefulness-7954e375300c
+
+I thought this article was interesting because it related heavily to what we discussed in the classes on the history of software development and the scrum framework. It delved into the philosophy behind the existing waterfall and agile methodologies which I thought was really cool. The idea that these frameworks/ideas existed throughout history and can still be relevant today is always fascinating to see. 
+
+The history from the agile manifesto in 2001 to the changes in the PRINCE2 and BABOK frameworks mentioned does show evidence that ideas change very quickly. My take from this article is similar to what the author's closing thoughts are. He thinks that scrum, and the 12 principles from the agile manifesto are the best we have right now, but something new will be created. Though I think something better may already exist, but it's just yet to become mainstream. As the author also mentions, some companies are evolving scrum methods so much that it might not even be scrum anymore. I'm sure that especially in the past year or two, and the next couple years, methodologies will evolve even further, as people begin innovating and taking advantage of changes in the workplace.
